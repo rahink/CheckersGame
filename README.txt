@@ -1,0 +1,1 @@
+A checkers game which supports creating a random board, or playing the classic board. Please note that this project is still in progress and the game will be completely done soon. 
